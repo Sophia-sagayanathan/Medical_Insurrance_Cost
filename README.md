@@ -1,4 +1,5 @@
 🏥 Medical Insurance Cost Prediction using Machine Learning
+
 📌 Project Overview
 
 This project focuses on predicting medical insurance charges based on demographic, lifestyle, and health-related factors. By applying data analysis and machine learning techniques, the model helps identify key drivers of healthcare costs and supports data-driven decision-making in the insurance domain.
